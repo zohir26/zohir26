@@ -30,7 +30,7 @@ I'm a software developer passionate about Web Design and Development. I love wor
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zohir26&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohir26&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohir26&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohir26&theme=dark&cache_bust=1234)
 
 ---
 
