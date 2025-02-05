@@ -51,6 +51,7 @@ const zohir = {
     currentFocus: "Building high-performance React applications",
     funFact: "I debug faster with a coffee in hand! ☕"
 };
+```
 
 🚀 Current Focus
 
@@ -75,4 +76,4 @@ const zohir = {
 🎉 Fun Facts
 🏏 I enjoy playing cricket to stay active and focused.
 📖 Listening to the Quran helps me unwind after coding sessions.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zohir26&style=flat-square&color=blue" alt="Profile Views"> </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zohir26&style=flat-square&color=blue" alt="Profile Views"> </p> 
