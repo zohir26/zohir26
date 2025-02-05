@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="https://i.ibb.co/N6MDk18q/Zohir.jpg" alt="Zohir" border="0" height="500px" width="700px" />
+    <img src="https://i.ibb.co/N6MDk18q/Zohir.jpg" alt="Zohir" border="0" height="500px" width="full" />
   </a>
 </div>
 
