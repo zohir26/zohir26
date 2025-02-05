@@ -8,6 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
+```javascript
 const zohir = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
@@ -21,8 +22,8 @@ const zohir = {
         backEnd: {
             js: ["Node", "Express", "NestJS"],
         },       
-        databases: "MongoDB" "Firebase Realtime DB"],
-        misc: [ "REST APIs", "WebSockets"],
+        databases: ["MongoDB", "Firebase Realtime DB"],
+        misc: ["REST APIs", "WebSockets"],
         generativeAI: ["GPT", "Gemini"],
     },
     architecture: {
@@ -34,8 +35,6 @@ const zohir = {
     funFact: "I can debug faster with a coffee in hand!"
 };
 
----
-
 ### 🚀 Current Activities:
 - 🔭 I’m currently working on **Next.js** and exploring its advanced features.
 - 🌱 I’m learning **MongoDB, Express, and Tailwind CSS** to enhance my full-stack skills.
@@ -46,24 +45,7 @@ const zohir = {
 ---
 
 ### 🛠 Skills:
-
-#### Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-#### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div align="center" style="padding: 10px;"> <h3>Frontend:</h3> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </div><div align="center" style="padding: 10px;"> <h3>Backend:</h3> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> </div><div align="center" style="padding: 10px;"> <h3>Tools:</h3> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </div>
 
 ---
 
@@ -84,10 +66,7 @@ const zohir = {
 ---
 
 ### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-zohir-hossain-018b641b2/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/500JahirRaihan)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail)](mailto:mdzohirhossain500@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/zohir26)
+<div align="center" style="padding: 10px;"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-zohir-hossain-018b641b2/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/500JahirRaihan) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail)](mailto:mdzohirhossain500@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/zohir26) </div>
 
 ---
 
