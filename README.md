@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Banner Image -->
-  <img src="https://i.ibb.co.com/GvqY1sKD/Zohir.jpg" alt="Banner" style="width: 700px; height: 500px; object-fit: cover;" />
+  <img height="500" src="https://i.ibb.co.com/p6dvnD47/Zohir.png" />
 </div>
 
 <h1 align="center">Hello, I'm Md Zohir Hossain! 👋</h1>
