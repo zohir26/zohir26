@@ -49,7 +49,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=zohir26" alt="GitHub Streak">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=zohir26&theme=dark&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
