@@ -4,9 +4,8 @@
   </a>
 </div>
 
-# 👋 Hello, I'm Md Zohir Hossain!
-
-## 🚀 Full Stack Developer | React & Next.js Enthusiast
+<h1 align="center">👋 Hello, I'm Md Zohir Hossain!</h1>
+<h2 align="center">🚀 Full Stack Developer | React & Next.js Enthusiast</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-zohir-hossain-018b641b2/">
@@ -47,7 +46,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zohir26&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohir26&layout=compact&theme=dark" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohir26&theme=dark" alt="GitHub Streak">
+</p>
+<p align="center">
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
