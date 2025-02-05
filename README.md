@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co.com/qMvq40t8"><img src="https://i.ibb.co.com/N6MDk18q/Zohir.jpg" alt="Zohir" border="0" /></a>
+  <a ><img src="https://i.ibb.co.com/N6MDk18q/Zohir.jpg" alt="Zohir" border="0" /></a>
 </div>
 
 <h1 align="center">Hello, I'm Md Zohir Hossain! 👋</h1>
