@@ -9,23 +9,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-zohir-hossain-018b641b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 5px; border-radius: 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/500JahirRaihan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="padding: 5px; border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:mdzohirhossain500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="padding: 5px; border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/zohir26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="padding: 5px; border-radius: 8px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
-## 👨‍💻 About Me
 
-javascript
+## 👨‍💻 About Me
+```javascript
 const zohir = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python"],
@@ -45,6 +45,7 @@ const zohir = {
     currentFocus: "Building high-performance React applications",
     funFact: "I debug faster with a coffee in hand! ☕"
 };
+
 
 
 ## 🚀 Current Focus
@@ -108,8 +109,8 @@ const zohir = {
 
 ### 🎉 Fun Facts
 
-- 🏃 I enjoy **playing cricket** to stay active and focused.
-- 🎸 Listening to **Quran** helps me unwind after coding sessions.
+- 🏏 I enjoy playing cricket to stay active and focused.
+- 📖 Listening to the Quran helps me unwind after coding sessions
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zohir26&style=flat-square&color=blue" alt="Profile Views">
