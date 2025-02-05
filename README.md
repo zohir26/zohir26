@@ -47,7 +47,7 @@ const zohir = {
 
 
 
-## 🚀 **Current Focus**
+## 🚀 Current Focus
 
 - 🔭 Working on advanced **Next.js applications** with server-side rendering.
 - 🌱 Exploring **MongoDB, Express, and Tailwind CSS** to enhance my full-stack expertise.
