@@ -60,7 +60,7 @@ const zohir = {
 
 ### 💻 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="padding: 5px; border-radius: 8px;">
+  <a> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="padding: 5px; border-radius: 8px;"> </a>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="padding: 5px; border-radius: 8px;">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px; border-radius: 8px;">
 </p>
