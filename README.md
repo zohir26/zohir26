@@ -22,7 +22,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 ```javascript
@@ -48,7 +47,7 @@ const zohir = {
 
 
 
-## 🚀 Current Focus
+## 🚀 **Current Focus**
 
 - 🔭 Working on advanced **Next.js applications** with server-side rendering.
 - 🌱 Exploring **MongoDB, Express, and Tailwind CSS** to enhance my full-stack expertise.
@@ -56,7 +55,6 @@ const zohir = {
 - 💬 Ask me about **React, JavaScript, or Web Development**.
 - 📫 Reach out via **email**: mdzohirhossain500@gmail.com
 
----
 
 ## 🛠 Skills & Technologies
 
@@ -74,7 +72,6 @@ const zohir = {
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="padding: 5px; border-radius: 8px;">
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -87,7 +84,6 @@ const zohir = {
   </a>
 </p>
 
----
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -105,7 +101,6 @@ const zohir = {
   </a>
 </p>
 
----
 
 ### 🎉 Fun Facts
 
