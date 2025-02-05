@@ -8,7 +8,31 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a passionate software developer specializing in **Web Design and Development**. I love building scalable and user-friendly applications using modern technologies like React, Node.js, and MongoDB. I enjoy collaborating on open-source projects and sharing my knowledge with the community.
+const zohir = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev",  "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },       
+        databases: "MongoDB" "Firebase Realtime DB"],
+        misc: [ "REST APIs", "WebSockets"],
+        generativeAI: ["GPT", "Gemini"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],       
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in developing top notch React Web Applications",
+    funFact: "I can debug faster with a coffee in hand!"
+};
 
 ---
 
