@@ -23,6 +23,39 @@
 </p>
 
 ---
+## 👨‍💻 About Me
+
+javascript
+const zohir = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Python"],
+    askMeAbout: ["Web Development", "UI/UX", "Tech Trends"],
+    technologies: {
+        frontEnd: { js: ["React", "Next.js"], css: ["Tailwind", "Bootstrap"] },
+        backEnd: { js: ["Node", "Express", "NestJS"] },
+        databases: ["MongoDB", "Firebase Realtime DB"],
+        misc: ["REST APIs", "WebSockets"],
+        generativeAI: ["GPT", "Gemini"]
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["Microservices", "Serverless"],
+        databases: ["Relational", "NoSQL"]
+    },
+    currentFocus: "Building high-performance React applications",
+    funFact: "I debug faster with a coffee in hand! ☕"
+};
+
+
+## 🚀 Current Focus
+
+- 🔭 Working on advanced **Next.js applications** with server-side rendering.
+- 🌱 Exploring **MongoDB, Express, and Tailwind CSS** to enhance my full-stack expertise.
+- 👯 Open to collaborations on **React-based projects**.
+- 💬 Ask me about **React, JavaScript, or Web Development**.
+- 📫 Reach out via **email**: mdzohirhossain500@gmail.com
+
+---
 
 ## 🛠 Skills & Technologies
 
@@ -52,8 +85,6 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=zohir26&theme=dark&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
-
-
 
 ---
 
