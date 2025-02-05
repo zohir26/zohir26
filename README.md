@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello, I'm Md Zohir Hossain!</h1>
 <h2 align="center">🚀 Full Stack Developer | React & Next.js Enthusiast</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/md-zohir-hossain-018b641b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -20,10 +20,10 @@
   <a href="https://github.com/zohir26">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+</div>
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 ```javascript
 const zohir = {
     pronouns: "He" | "Him",
@@ -47,7 +47,7 @@ const zohir = {
 
 
 
-## 🚀 Current Focus
+🚀 Current Focus
 
 - 🔭 Working on advanced **Next.js applications** with server-side rendering.
 - 🌱 Exploring **MongoDB, Express, and Tailwind CSS** to enhance my full-stack expertise.
@@ -56,16 +56,16 @@ const zohir = {
 - 📫 Reach out via **email**: mdzohirhossain500@gmail.com
 
 
-## 🛠 Skills & Technologies
+🛠 Skills & Technologies
 
-### 💻 Frontend
+💻 Frontend
 <p align="center">
-  <a> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="padding: 5px; border-radius: 8px;"> </a>
+  <a > <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="padding: 5px; border-radius: 8px;"> </a>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="padding: 5px; border-radius: 8px;">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px; border-radius: 8px;">
 </p>
 
-### 🔙 Backend
+🔙 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="padding: 5px; border-radius: 8px;">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="padding: 5px; border-radius: 8px;">
@@ -73,7 +73,7 @@ const zohir = {
 </p>
 
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zohir26&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohir26&layout=compact&theme=dark" alt="Top Languages">
@@ -85,7 +85,7 @@ const zohir = {
 </p>
 
 
-## 🔗 Connect with Me
+🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/md-zohir-hossain-018b641b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 5px; border-radius: 8px;">
@@ -102,7 +102,7 @@ const zohir = {
 </p>
 
 
-### 🎉 Fun Facts
+🎉 Fun Facts
 
 - 🏏 I enjoy playing cricket to stay active and focused.
 - 📖 Listening to the Quran helps me unwind after coding sessions
