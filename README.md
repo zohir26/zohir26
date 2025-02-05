@@ -49,9 +49,10 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=zohir26" alt="GitHub Streak">
   </a>
 </p>
+
 
 
 ---
