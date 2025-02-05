@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img height="500" src="https://i.ibb.co.com/p6dvnD47/Zohir.png"  />
+</div>
 ## Hello, I'm Md Zohir Hossain! 👋
 
 I'm a software developer passionate about Web Design and Development. I love working on React projects and sharing my work with the community. Here you'll find some of my projects, contributions, and more!
