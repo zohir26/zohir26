@@ -48,8 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohir26&layout=compact&theme=dark" alt="Top Languages">
 </p>
 <p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true" alt="GitHub Streak">
+  </a>
 </p>
+
 
 ---
 
